@@ -13,6 +13,8 @@ public class ArrayLoop {
 			System.out.println(arr[i]);
 		}
 
+		System.out.println();
+
 		for (int j = 0; j < arr.length; j++) {
 			arr[j] *= 10;
 			System.out.println(arr[j]);
